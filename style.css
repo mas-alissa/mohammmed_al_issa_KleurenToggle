@@ -1,0 +1,57 @@
+body{
+    background-color: gray;
+}
+
+.hamburger-menu-icon,.hamburger-menu-icon1{
+    width:50px;
+    cursor:pointer;
+}
+
+
+.container{
+    border:3px solid gray;
+    display: inline-block;
+}
+.container1{
+    display:inline-block;
+    position: relative;
+    left:-400px;
+}
+.container div{
+    padding:20px 300px 20px 20px;
+    border:2px solid rgb(175, 141, 141);
+    cursor: pointer;
+}
+.container1 div{
+    padding:20px 300px 20px 20px;
+    border:2px solid rgb(175, 141, 141);
+}
+
+
+.Home,.Home1{
+    background-color:gray;
+}
+
+.Red,.Red1{
+    background-color:red;
+}
+
+.Orange,.Orange1{
+    background-color:orange;
+}
+
+.Purple,.Purple1{
+    background-color:purple;
+}
+
+.Green,.Green1{
+    background-color:green;
+}
+
+.hide{
+    display:none;
+}
+
+input,label{
+    cursor: pointer;
+}
